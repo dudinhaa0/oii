@@ -1,1 +1,0 @@
-{"appId":"com.booknook.app","appName":"BookNook","webDir":"dist","bundledWebRuntime":false,"plugins":{"SplashScreen":{"launchShowDuration":2200,"launchAutoHide":true,"backgroundColor":"#1E162B","showSpinner":false,"androidScaleType":"CENTER_CROP","splashFullScreen":true,"splashImmersive":false}}}
